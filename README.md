@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jagadish789
-- 👀 I’m interested in s/w developer/tester/data_scientist
+- 👋 Hi, I’m Jagadish Kumar Bode
+- 👀 I’m interested in s/w developer/tester/data_scientist/Web dev
 - 🌱 I’m currently learning Btech final year-CSE.
 - 💞️ I’m looking to collaborate on IT compaies
 - 📫 How to reach me "jagadishkumarnaidu789@gmail.com"
